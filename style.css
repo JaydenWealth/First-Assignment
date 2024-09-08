@@ -1,0 +1,9 @@
+/* Style the dropdown when it's hidden */
+[aria-hidden="true"] {
+    display: none;
+  }
+  
+  /* Style the button when the menu is expanded */
+  [aria-expanded="true"] {
+    background-color: green;
+  }
